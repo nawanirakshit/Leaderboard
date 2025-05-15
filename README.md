@@ -95,3 +95,22 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+# How to chnage package name
+npx react-native-rename "App Name" -b "package name/bundle identifier"
+
+cd ios
+pod deintegrate 
+pod clean
+rm -rf Pods
+rm Podfile.lock
+pod install
+cd ..
+npx react-native run-ios
+
+
+cd ios && pod install && cd ..
+cd android && ./gradlew clean && cd ..
+
