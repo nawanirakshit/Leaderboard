@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "344613626883",
+    "firebase_url": "https://scrappingtesting-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scrappingtesting",
+    "storage_bucket": "scrappingtesting.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344613626883:android:1af814f3f44ec7b5ac9a36",
+        "android_client_info": {
+          "package_name": "com.rakshit.leaderboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344613626883-8e6s6f0t7p1dsqlac2mv6uvjhstbqkmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBllQ71Ndrop2knFe8iX1hh7YjGb0y39ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344613626883-8e6s6f0t7p1dsqlac2mv6uvjhstbqkmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344613626883-qjq00tjfr07qem1gc2he4vntedtc2953.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rakshit.leaderboard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344613626883:android:7d36152357cfcd05ac9a36",
+        "android_client_info": {
+          "package_name": "com.rakshit.scrappingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344613626883-qi3cu1vem9f77p1623dn6l5ggvmfth12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakshit.scrappingtest",
+            "certificate_hash": "4780c0654eb7e8b8bda24728707b456688856b44"
+          }
+        },
+        {
+          "client_id": "344613626883-8e6s6f0t7p1dsqlac2mv6uvjhstbqkmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBllQ71Ndrop2knFe8iX1hh7YjGb0y39ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344613626883-8e6s6f0t7p1dsqlac2mv6uvjhstbqkmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344613626883-qjq00tjfr07qem1gc2he4vntedtc2953.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rakshit.leaderboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
