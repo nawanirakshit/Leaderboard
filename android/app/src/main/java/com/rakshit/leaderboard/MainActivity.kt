@@ -1,4 +1,4 @@
-package com.leaderboard
+package com.rakshit.leaderboard
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

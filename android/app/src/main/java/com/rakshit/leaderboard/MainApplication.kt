@@ -1,4 +1,4 @@
-package com.leaderboard
+package com.rakshit.leaderboard
 
 import android.app.Application
 import com.facebook.react.PackageList
