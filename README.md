@@ -77,3 +77,20 @@ cd android && ./gradlew clean && cd ..
 //For Firebase installation
 https://rnfirebase.io
 
+Icons: https://oblador.github.io/react-native-vector-icons/#MaterialIcons
+
+Firebase Database
+{
+    user_token: [
+        {
+            game_id:[
+                participant 1: {
+
+                },
+                participant 2: {
+
+                }
+            ]
+        }
+    ]
+}
