@@ -47,6 +47,7 @@ const RegistrationScreen = ({navigation}) => {
           name: name,
           password: password,
         };
+        hideLoading();
         login(userData);
       })
       .catch(error => {

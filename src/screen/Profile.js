@@ -52,7 +52,6 @@ const ProfileScreen = () => {
             try {
               await auth.signOut(); // Sign out the user
               await logout();
-              Alert.alert("Logged Out", "You have been successfully logged out.");
             } catch (error) {
               console.error("Error logging out:", error);
               Alert.alert("Logout Error", error.message);
