@@ -6,9 +6,9 @@ Demo project on how to manage a leaderboard and display score with Top 3 ranks
 https://github.com/user-attachments/assets/a23c2b73-ce6b-4324-920b-461778a52a68
 
 Development Language: React Native
-backend: Firebase
 
-Tech Stack: VS Code, Firebase(Realtime DB, Authentication)
+Backend: Firebase(Realtime DB, Authentication)
+
 
 # Initial Commands on how to run the project
 npm start
